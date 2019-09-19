@@ -1,8 +1,6 @@
 # veracodeuploadandscan.sh
 A shell script to upload and scan a application (zip or war etc.) and create the application if necessary.  Uses Curl and hmac headers
 
-veracodeuploadandscan.sh is a sample script to upload and scan an application with Veracode using curl and hmac headers
-        
 Where the Command line options are:
 
     -h,--help       prints the help information
