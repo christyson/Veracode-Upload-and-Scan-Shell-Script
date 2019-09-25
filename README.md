@@ -31,3 +31,5 @@ Where the Command line options are:
 
 	./veracodeuploadandscan.sh --app=verademoscript --file="my.war" --filepath="C:\\Users\\myuser\\DemoStuff\\shell script\\" 
 	--crit="Very High" --vid=a251a1d**************** --vkey=312054************
+
+Note: this was all tested on Windows on gitbash so it may have quirks :)
